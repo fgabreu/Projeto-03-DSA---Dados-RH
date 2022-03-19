@@ -1,6 +1,6 @@
 **Projeto-DSA-Recursos Humanos**
 
-O objetivo deste relatório é a Análise dos dados de Recursos Humanos.
+O objetivo deste relatório é a Análise dos dados de Recursos Humanos com a utilização da ferramenta Python.
 
 Os principais tópicos são:
 - Análise Exploratória, limpeza e trasformação de dados;
